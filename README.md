@@ -125,25 +125,4 @@ Results and model evaluation metrics are saved in:
 - `dataset/feature_importance_FIXED.csv`
 - `dataset/model_summary_FIXED.csv`
 
-## 🐛 Troubleshooting
-
-### Common Issues:
-1. **Missing data files**: Run `fixed_data_preprocessor.py` first
-2. **Import errors**: Ensure all dependencies are installed
-3. **Memory issues**: Consider reducing dataset size for large files
-
-## 📄 License
-
-This project is licensed under the terms specified in the LICENSE file.
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements.
-
-## 📞 Support
-
-If you encounter any issues or have questions, please create an issue in the project repository.
-
----
-
-*Built with ❤️ using Python and scikit-learn*
+*Developed with ❤️ using Python and scikit-learn @Christian Chandra*
