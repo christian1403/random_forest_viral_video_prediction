@@ -1,0 +1,2 @@
+Model,Features,Training_Samples,Testing_Samples,Best_Accuracy,Best_F1_Score,Model_File,Date_Trained
+Random Forest,16,-,-,0.972768532526475,0.8666666666666667,viral_prediction_rf_model_FIXED.pkl,2026-01-19 14:38:46

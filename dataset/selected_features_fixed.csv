@@ -1,0 +1,17 @@
+feature
+title_length
+title_word_count
+title_has_numbers
+title_has_exclamation
+title_has_question
+title_has_caps
+title_viral_words
+description_length
+description_word_count
+has_description
+tags_count
+has_tags
+language_encoded
+video_age_days
+publish_hour
+publish_day_of_week

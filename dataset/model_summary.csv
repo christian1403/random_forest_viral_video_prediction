@@ -1,0 +1,2 @@
+model_type,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,training_samples,testing_samples,n_features,test_f1_score,test_accuracy,training_date
+RandomForestClassifier,100,10,2,1,sqrt,31728,7932,20,1.0,1.0,2026-01-11 11:07:45
